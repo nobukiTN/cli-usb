@@ -1,0 +1,12 @@
+[package]
+name = "infra"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sqlx = { version = "0.8.6", features = ["runtime-tokio-rustls", "macros", "sqlite"] }
+time = { version = "0.3.43", features = ["local-offset"] }
+udev = "0.9.3"
+uuid = { version = "1.18.1", features = ["v7","v4"] }
+domain = {path = "../domain"}
+app = {path = "../app"}

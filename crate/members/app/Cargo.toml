@@ -1,0 +1,10 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sqlx = { version = "0.8.6", features = ["runtime-tokio-rustls", "macros", "sqlite"] }
+domain = { path = "../domain"}
+thiserror = "2.0.16"
+async-trait = "0.1.89"

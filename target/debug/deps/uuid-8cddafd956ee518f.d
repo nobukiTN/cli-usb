@@ -1,0 +1,13 @@
+D:\Rust実験\実験\DDD\CLIでUSB\cli-usb\target\debug\deps\uuid-8cddafd956ee518f.d: D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\lib.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\macros.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\builder.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\error.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\non_nil.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\parser.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\fmt.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\timestamp.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\external.rs
+
+D:\Rust実験\実験\DDD\CLIでUSB\cli-usb\target\debug\deps\libuuid-8cddafd956ee518f.rmeta: D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\lib.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\macros.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\builder.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\error.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\non_nil.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\parser.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\fmt.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\timestamp.rs D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\external.rs
+
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\lib.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\macros.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\builder.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\error.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\non_nil.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\parser.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\fmt.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\timestamp.rs:
+D:\Rust\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-1.18.1\src\external.rs:
